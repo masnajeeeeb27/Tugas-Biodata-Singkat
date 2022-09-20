@@ -49,7 +49,7 @@
         android:id="@+id/ivFoto"
         android:layout_width="107dp"
         android:layout_height="159dp"
-        android:src="@drawable/DSC_3091"
+        android:src="@drawable/foto"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.49"

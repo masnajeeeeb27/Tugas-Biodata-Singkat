@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
     public void telepon(View view) {
-        Intent intent = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:0813266885581"));
+        Intent intent = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:081326685581"));
         startActivity(intent);
     }
 }
